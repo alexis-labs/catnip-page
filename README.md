@@ -13,7 +13,7 @@ This repository contains a static, GitHub Pages-ready privacy policy website for
 Replace these placeholders and review the policy against the real app build:
 
 - `[Developer / Company Name]` in `index.html`
-- `privacy@catnipmoney.app` if you use a different contact email
+- `scribbworks@gmail.com` if you use a different contact email
 - `https://catnipmoney.app/` in the canonical and Open Graph URL tags
 - Third-party service references if your app does not use Supabase, CoinGecko, or any other listed provider
 - The effective date and last updated date when the policy changes
@@ -51,7 +51,7 @@ Keep the section headings and wording aligned with the actual game behavior. Do 
 When you update the policy:
 
 1. Update the **Last updated** date near the top of `index.html`.
-2. Update any changed data collection, sharing, retention, or deletion details.
+2. Update any changed data collection, sharing, retention, or in-app deletion details.
 3. Re-check the **Data Safety Mapping** table at the bottom.
 4. Re-deploy through GitHub Pages.
 
